@@ -133,4 +133,4 @@ idm download manager es una herramienta popular usada por millones cada mes. La 
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>wise-coral-373 · Actualizado 2026-10-08 · Compartido bajo licencia MIT</sub></p>
+<p align="center"><sub>wise-coral-373 · Actualizado 2026-10-09 · Compartido bajo licencia MIT</sub></p>
